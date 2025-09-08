@@ -62,7 +62,7 @@ text
 - npm or yarn
 
 ### Clone Repository
-git clone [https://github.com/your-username/ecom-evaluation-app.git](https://github.com/Shobhit880/Academy-Ease-ecom-evalauation-app.git)
+git clone [https://github.com/Shobhit880/Academy-Ease-ecom-evalauation-app.git](https://github.com/Shobhit880/Academy-Ease-ecom-evalauation-app.git)
 cd ecom-evaluation-app
 
 text
