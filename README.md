@@ -62,7 +62,7 @@ text
 - npm or yarn
 
 ### Clone Repository
-git clone https://github.com/your-username/ecom-evaluation-app.git
+git clone [https://github.com/your-username/ecom-evaluation-app.git](https://github.com/Shobhit880/Academy-Ease-ecom-evalauation-app.git)
 cd ecom-evaluation-app
 
 text
@@ -90,7 +90,7 @@ Database Configuration
 DB_HOST=localhost
 DB_PORT=3306
 DB_USER=root
-DB_PASSWORD=your_mysql_password
+DB_PASSWORD=My_password
 DB_NAME=ecommerce_analytics
 
 Server Configuration
@@ -309,8 +309,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [Shobhit880](https://github.com/Shobhit880)
+- Email: 2k22aiml.ng2.2213142@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -320,11 +320,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-If you have any questions or need help with setup, please:
-1. Check the [Issues](https://github.com/your-username/ecom-evaluation-app/issues) page
-2. Create a new issue with detailed description
-3. Contact the maintainer
-
-**Built with ❤️ for e-commerce analytics**
+**Built By Shobhit for e-commerce analytics**
